@@ -1,1 +1,1 @@
-# technics
+# technic
