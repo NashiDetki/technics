@@ -20,15 +20,7 @@ function image4(){
     image.src = './img/sj100 top.jpg'
 }
 
-// link_1.addEventListener('click', function(){
-//     image.src = './img/sj100 air.jpg'
-// })
 
-// image4();
-
-image.src = './img/sj100 left.jpg'
-
-link_1.innerText = 'Rfhnbyrf';
 
 function imageFunction(srcImage){
     image.src = srcImage
